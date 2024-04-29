@@ -22,6 +22,7 @@ public class SubtractNumbers {
 
         // Display the result
         System.out.println("Difference: " + difference);
+        System.out.println("206" );
     }
 }
 
